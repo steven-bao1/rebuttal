@@ -2,4 +2,4 @@
 
 ## Figure 1
 
-![Figure 1](figure1.png)
+![Figure 1](soar/figure1.png)
